@@ -37,7 +37,7 @@
    - Set the default tool's left rotation shortcut to **Ctrl + Alt + Shift + 2**.
    - Set the single click to **F10**. These keys can be replaced by the user by recompiling.
 
-## Compilation
+## Compiler
 
 If you need to compile the script yourself, ensure that [AutoHotkey](https://www.autohotkey.com/) is installed on your system, and follow these steps:
 
