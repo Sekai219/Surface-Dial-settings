@@ -1,5 +1,7 @@
 # Surface Dial Settings
 
+[English](https://github.com/Sekai219/Surface-Dial-settings/blob/main/README.md) | [中文简体](https://github.com/Sekai219/Surface-Dial-settings/blob/main/zh_cn.md)
+
 **Surface Dial Settings** is a software application that uses the Surface Dial to simulate keyboard and mouse operations, offering custom hotkeys and tray menu functionality.
 
 ## Features
@@ -57,6 +59,4 @@ If you have any suggestions or find any bugs, please report them or contribute c
 - [Email](mailto:qq1973846900@gmail.com)
 - [GitHub](https://github.com/Sekai219)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+END
