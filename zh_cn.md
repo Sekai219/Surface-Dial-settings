@@ -3,7 +3,8 @@
 **Surface Dial Settings** 是一个使用Surface Dial用于模拟键盘和鼠标操作的软件，提供了自定义的快捷键和托盘菜单功能。
 
 ## 预览
-![](./cn.png)
+
+![预览](./cn.png)
 
 ## 功能
 
