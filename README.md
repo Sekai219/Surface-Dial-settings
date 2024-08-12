@@ -8,7 +8,7 @@ It is a software that uses Surface Dial to simulate keyboard and mouse operation
 
 ## Preview
 
-![](./EN.png)
+![](./US.png)
 
 ## Features
 
