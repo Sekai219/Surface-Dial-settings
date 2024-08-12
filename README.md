@@ -3,7 +3,7 @@
 [English](https://github.com/Sekai219/Surface-Dial-settings/blob/main/README.md) | [中文简体](https://github.com/Sekai219/Surface-Dial-settings/blob/main/zh_cn.md)
 
 **Surface Dial Settings** is a software application that uses the Surface Dial to simulate keyboard and mouse operations, offering custom hotkeys and tray menu functionality.
-
+![Setting interface](US.png)
 ## Features
 
 - **Hotkey Functions**:
