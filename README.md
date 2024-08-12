@@ -4,8 +4,9 @@
 
 **Surface Dial Settings** is a software application that uses the Surface Dial to simulate keyboard and mouse operations, offering custom hotkeys and tray menu functionality.
 
+## Preview
+
 ![Preview](US.png)
-![](./US.png)
 
 ## Features
 
