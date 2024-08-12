@@ -2,7 +2,9 @@
 
 [English](https://github.com/Sekai219/Surface-Dial-settings/blob/main/README.md) | [中文简体](https://github.com/Sekai219/Surface-Dial-settings/blob/main/zh_cn.md)
 
-**Surface Dial Settings** is a software application that uses the Surface Dial to simulate keyboard and mouse operations, offering custom hotkeys and tray menu functionality.
+**Surface Dial Settings** 
+
+It is a software that uses Surface Dial to simulate keyboard and mouse operations. It provides customized shortcut keys and custom menus, allowing you to customize the functions of Surface Dial, allowing you to switch between different modes and provide various Actions are assigned different keyboard shortcuts.
 
 ## Preview
 
@@ -11,16 +13,11 @@
 ## Features
 
 - **Hotkey Functions**:
-  - **Left Rotation**: Depending on the script state, sends the left arrow key or scrolls up.
-  - **Right Rotation**: Depending on the script state, sends the right arrow key or scrolls down.
-  - **Double Click**: Toggles the script’s enable/disable state and displays a status notification. You can turn off the toggle notification in the settings.
-  - **Single Click**: Sends the space bar key or pause key.
+  - **Left Rotation**: Custom or default keys based on settings
+  - **Right Rotation**: Custom or default keys based on settings
+  - **Double Click**: Toggles the mode 1/2 state and displays a status notification. You can turn off the toggle notification in the settings.
+  - **Single Click**: Custom or default keys based on settings
 
-- **Tray Menu**:
-  - **Surface Dial Settings**
-  - **Pause Hotkeys**: Pauses the hotkey functions.
-  - **Pause Script**: Pauses all script functions.
-  - **Exit Script**: Exits the script and closes the program.
 
 ## Installation and Usage
 
@@ -36,10 +33,10 @@
 4. **Hotkey Operations**:
    - Use the Surface Dial's press and rotation as well as double-clicking to operate.
 
-5. **Preparation**:
+5. **Preparation**:（Default mode ）
    - In the device settings under the "Dial" options, set the default tool's right rotation shortcut to **Ctrl + Alt + Shift + 1**.
    - Set the default tool's left rotation shortcut to **Ctrl + Alt + Shift + 2**.
-   - Set the single click to **F10**. These keys can be replaced by the user by recompiling.
+   - Set the single click to **F10**. These keys can be replaced by the user by setting.
 
 ## Compiler
 
