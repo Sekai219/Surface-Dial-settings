@@ -40,10 +40,7 @@ It is a software that uses Surface Dial to simulate keyboard and mouse operation
 
 ## Compiler
 
-If you need to compile the script yourself, ensure that [AutoHotkey](https://www.autohotkey.com/) is installed on your system, and follow these steps:
-
-1. Save the script as a `.ahk` file.
-2. Use the AutoHotkey compiler to compile the script into an `.exe` file.
+If you need to compile the script yourself, focus on [AutoHotkey](https://www.autohotkey.com/) 
 
 ## Notes
 
