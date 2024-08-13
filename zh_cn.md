@@ -35,10 +35,7 @@
 
 ## 编译
 
-如果你需要自行编译脚本，请确保你的系统中已安装 [AutoHotkey](https://www.autohotkey.com/)，然后使用以下步骤：
-
-1. 将脚本保存为 `.ahk` 文件。
-2. 使用 AutoHotkey 编译器将脚本编译为 `.exe` 文件。
+如果你要自行编译脚本，关注[AutoHotkey](https://www.autohotkey.com/)
 
 ## 注意事项
 
