@@ -9,6 +9,7 @@ It is a software that uses Surface Dial to simulate keyboard and mouse operation
 ## Preview
 
 ![](./US.png)
+![预览](./CN.png)
 
 ## Features
 
